@@ -1,1 +1,1 @@
-Console.log("Agust D <3");
+console.log("Agust D <3");
